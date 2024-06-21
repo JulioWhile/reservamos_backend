@@ -37,7 +37,7 @@ This API provides weather forecasts for cities in Mexico. It leverages the Reser
 4. Set up your OpenWeather API key:
 
     - Sign up on [OpenWeather](https://openweathermap.org/) to get an API key.
-    - Create a `.env` file in the project root and add your OpenWeather API key:
+    - The variable is created and used in code.
 
     ```plaintext
     OPENWEATHER_API_KEY=your_openweather_api_key
