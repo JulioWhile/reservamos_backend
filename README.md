@@ -17,8 +17,8 @@ This API provides weather forecasts for cities in Mexico. It leverages the Reser
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/weather-forecast-api.git
-    cd weather-forecast-api
+    git clone https://github.com/JulioWhile/reservamos_backend
+    cd backend_challenge
     ```
 
 2. Create a virtual environment and activate it:
